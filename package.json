@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.134",
+    "@types/pg": "^8.11.0",
+    "aws-lambda": "^1.0.7",
+    "pg": "^8.11.3"
+  }
+}
